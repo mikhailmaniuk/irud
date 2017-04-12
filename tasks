@@ -1,30 +1,13 @@
-3 - html
-    * задание на определение знаний учащихся (тестовое)
-    * задание на освоение таблиц
-    * задание на освоение форм
-
-3 - css
-    * обтекание + позиционирование
-    * анимация + редактирование блоков
-    * создание макетов
-
-2 - js
-    * задачи
-    * canvas
-
-
-1 - итоговое задание
-
-
 1. Структура HTML-страницы. Организация контента страницы.
 
 
-2. Создание HTML-письма, используя табличную верстку.
+2. Создание HTML-письма, используя табличную верстку.                               done!!!!
 
 3. Создание страницы, используя блочную верстку
 
 4. Функция и обработка событий.
     https://learn.javascript.ru/introduction-browser-events
+    https://gist.github.com/codedokode/ce30e7a036f18f416ae0
 
 5. Организяция ветвлений в программах.                                              done!!!!
     task5.html
@@ -34,10 +17,10 @@
     http://fignyamuk.narod.ru/labijavascript.html
     http://www.studfiles.ru/preview/5622672/
 
-7. Повторяющие вычисления - циклы.
+7. Повторяющие вычисления - циклы.                                                  done!!!!
     https://sites.google.com/site/webkss2kurs/javacript/laboratornaa-no8-1
 
-8. Массивы и методы работы с ними.
+8. Массивы и методы работы с ними.                                                  done!!!!
     https://sites.google.com/site/webkss2kurs/javacript/laboratornaa-no9
 
 
